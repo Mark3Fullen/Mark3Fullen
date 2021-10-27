@@ -1,5 +1,5 @@
 ### Hi! My name's Mark! 🧑‍💻🥁👾
- I'm a 20-year-old Fullstack Developer out of Columbus, Ohio!
+ I'm a 20-year-old Fullstack Developer out of Columbus, Ohio with a passion for music and coding!
  
  <img src="https://github-readme-stats.vercel.app/api?username=Mark3Fullen&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
